@@ -1,0 +1,13 @@
+# Unreal generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Raw geodata - do NOT commit
+00_Geodata_RAW/
+
+# OS junk
+.DS_Store
+Thumbs.db
